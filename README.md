@@ -15,9 +15,7 @@ Built for Egypt's growing robotics and industrial automation sector, which curre
 
 ## Current stage
 
-Concept moving into engineering validation. No finished physical MVP yet — see [`/docs/roadmap.md`](docs/roadmap.md) for the path to a validated motor prototype.
-
-Originated from a graduation project (BLDC Cycloidal Actuator, Ain Shams University, Mechatronics Engineering) — see [`/docs/architecture.md`](docs/architecture.md) for the full technical architecture (electromagnetic design, FOC control, power electronics, CAN/telemetry, validation plan).
+Concept moving into engineering validation. No finished physical MVP yet 
 
 ## Team
 
