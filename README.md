@@ -2,7 +2,7 @@
 
 **Modular BLDC motor platform — one motor core, configurable into a standalone controller, a standalone motor, or a complete high-torque cycloidal actuator.**
 
-Built for Egypt's growing robotics and industrial automation sector, which currently depends almost entirely on imported actuator modules ($27K–35K per unit, long lead times, no local service).
+Built for Egypt's growing robotics and industrial automation sector, which currently depends almost entirely on imported actuator modules 
 
 ## What we're building
 
